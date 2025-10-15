@@ -1,0 +1,12 @@
+{
+  "name": "news-aggregator",
+  "version": "1.0.0",
+  "description": "Simple news aggregator mini project",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server ."
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
